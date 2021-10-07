@@ -8,9 +8,9 @@ Assignment description [here](https://raw.githubusercontent.com/ra559/cis106/mai
 2. Which commands did you use to find and install the web browser? 
    *  For searching a theme is used the "apt search web browser" command
    *  For the installation I used "sudo apt install" and the name of the browser chosen
-3.1 What is the name of the package? 
+3. 3.1 What is the name of the package? 
    * The package is called "xwelltris" 
-3.2 What dependencies are needed in order to install the package? (you can either take a screenshot of the terminal or copy and paste from the terminal)
+4. 3.2 What dependencies are needed in order to install the package? (you can either take a screenshot of the terminal or copy and paste from the terminal)
 
 ![image1](../imgs/lab3img.png)
 
