@@ -114,3 +114,55 @@
 * commands can be modified
 * you can run the history command to see the list of command history
 * commands can also be rerun using !
+
+# How to navigate the filesystem
+
+* files are stored to organize and simplify access to data
+* linux organizes files in a hierarchical directory structure
+* folder and directory are the same thing
+* the root is the first directory in the file system
+* linux always has a single file system tree
+* the nemo file manager uses a GUI
+
+## Navigating the FS in the CLI
+
+* the file system is like a tree where every branch is a directory
+* there are parent directories and child directories or subdirectories
+* every file has a pathname in the filesystem
+
+![image10](../imgs/directorytree.png)
+
+![image11](../imgs/directorycoms.png)
+
+![image13](../imgs/directorypwd.png)
+
+* PWD displays the current working directory
+* CD command changes the current working directory
+* it can also take you to the home directory
+
+![image14](../imgs/directorycd.png)
+
+![image15](../imgs/directorycd1.png)
+
+* Tab completes the command
+* Arrow keys allow to move, edit and repeat commands
+* **Ctrl + a** allows you to go to the start of the command line
+* **Ctrl + e** allows you to go to the the end of the command line
+
+## Listing Files and Directories
+
+* LS command is used for listing content in the directory
+* can be used with or without arguments
+* has many different options and can be seen with the: man Ls command
+* sorts alphabetically
+* can sort in other ways
+
+![image16](../imgs/directoryLS.png)
+
+![image17](../imgs/directoryLS1.png)
+
+![image18](../imgs/directoryLS2.png)
+
+![image19](../imgs/absolute.png)
+
+![image20](../imgs/cheatsheet.png)
