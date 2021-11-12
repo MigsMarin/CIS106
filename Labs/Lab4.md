@@ -1,4 +1,4 @@
-# Lab 3 Managing files and directories
+# Lab 4 Managing files and directories
 
 ## Question 1: Creating directories
 
